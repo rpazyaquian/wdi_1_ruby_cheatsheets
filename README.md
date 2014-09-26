@@ -1,9 +1,7 @@
 Ruby Cheatsheets! 
 ======================
 
-Fork and clone this repo. 
-
-Create a new file for your cheatsheet and say who wrote it - e.g. `arrays_by_david_anna.rb`
+Fork and clone this repo. Create a new file for your cheatsheet and say who wrote it - e.g. `arrays_by_david_anna.rb`
 
 Your cheatsheet should demonstrate all the important things about a particular topic. Comment every line to explicitly say what it's doing - especially the tricky parts. Try to give the higher-level perspective too - what's the point of using an array vs. a hash? What is each datatype useful for? 
 
